@@ -4,3 +4,16 @@ h1 {
   background-color: limegreen;
   font-family: cursive;
 }
+h2 {
+  color: white;
+  text-align:left;
+  background-color: purple;
+  font-family: fantasy;
+}
+.para1 {
+  font-family: fantasy;
+}
+.hyperLink:hover {
+  background-color: orange;
+  text-decoration: none;
+}
