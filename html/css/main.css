@@ -1,8 +1,10 @@
 h1 {
   color: DeepPink;
-  text-align: center;
-  background-color: limegreen;
+  text-align:center;
+  background-color: black;
   font-family: cursive;
+  border: 1px solid black;
+  margin: 10px;
 }
 h2 {
   color: white;
@@ -11,15 +13,15 @@ h2 {
   font-family: fantasy;
 }
 .para1 {
-  font-family: fantasy;
+  font-family: Arial;
 }
 .hyperLink:hover {
   background-color: orange;
   text-decoration: none;
 }
 body {
-  background: url(pinkbackground.jpg);
-  /* background-image: url(images/new-england-patriots-logo-1989-1992.png); */
+  background: url(pinkbackground.jpg) no-repeat center fixed;
+  background-size: cover;
 }
 .images {
   background-image: url(../images/new-england-patriots-logo-1989-1992.png);
@@ -29,8 +31,8 @@ body {
 }
 
 .share {
-  border: 1px solid LightGrey;
-  padding: 40px 0px;
+  border: 1px solid black;
+  padding: 0px 0px;
   position: relative;
   text-align: center;
   width: 100%;
