@@ -17,3 +17,6 @@ h2 {
   background-color: orange;
   text-decoration: none;
 }
+body {
+  background: url(pinkbackground.jpg);
+}
