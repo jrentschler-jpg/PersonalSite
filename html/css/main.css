@@ -64,19 +64,15 @@ body {
 border: 3px solid white;
  position: relative;
  padding-left: 100px;
-
  width: 400px;
  margin: 60px auto;
 }
 .quoteBody{
-
   border: 3px solid white;
    position: relative;
    padding-left: 100px;
-
    width: 400px;
    margin: 60px auto;
-  
 }
 /* .w-100 {
   width: 100% !important;
