@@ -15,6 +15,19 @@ h2 {
   font-family:monospace;
   padding: 14px;
 }
+h3 {
+  border: 1px dotted black;
+  color: purple;
+  font-size: 14px;
+  line-height: 48px;
+  padding: 20px 30px;
+  margin: 30px 20px;
+  text-align: center;
+}
+.pull-quote {
+  margin: 0 auto;
+  width: 400px;
+}
 .para1 {
   font-family: Arial;
 }
@@ -74,7 +87,24 @@ border: 3px solid white;
    width: 400px;
    margin: 60px auto;
 }
+.byline {
+  /* border-bottom: 1px solid black; */
+  /* border-top: 1px solid black; */
+  color: black;
+  font-size: 14px;
+  font-weight: 200;
+  text-align: center;
+  margin-left: 20px;
+  padding: 10px;
+}
 /* .w-100 {
   width: 100% !important;
   height: 75vh;
+} */
+
+/* html {
+  background: url(images/bg.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
 } */
