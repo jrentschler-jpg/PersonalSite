@@ -56,9 +56,29 @@ body {
   border: 1px solid red;
   color: red;
 }
-.carousel-inner {
-  height: 800;
-  width: 400;
-
-
+.carousel-inner{
+  width:100%;
+  display: inline-block;
 }
+.middleBody{
+border: 3px solid white;
+ position: relative;
+ padding-left: 100px;
+
+ width: 400px;
+ margin: 60px auto;
+}
+.quoteBody{
+
+  border: 3px solid white;
+   position: relative;
+   padding-left: 100px;
+
+   width: 400px;
+   margin: 60px auto;
+  
+}
+/* .w-100 {
+  width: 100% !important;
+  height: 75vh;
+} */
